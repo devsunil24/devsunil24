@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devsunil24 [ Sunilkumar ]
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Full Stack Develepment
 - 🌱 I’m currently learning Web development 
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me [ Gmail- dev.sunilkumar.24@gmail.com] [Instagram - sunilkumar.sk.24] [ Discord - sunilkumar_24#5146] 
